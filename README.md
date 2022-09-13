@@ -5,12 +5,14 @@ This is just the basic setup which include an about page for routing. You can ad
 
 # USAGE
 
-## 1. clone this repository
+### 1. clone the repository
 
-## 2. run npm install - to install all the dependencies on the package.json
+### 2. run npm install - to install all the dependencies on the package.json
 
-## 3. run npm audit fix - to fix any errors 
+### 3. run npm audit fix - to fix any errors 
 
-## 4. run npm run serve - to start the project
+### 4. run npm run serve - to start the project
 
-## 5. Open the link on your browser to view
+### 5. Open the link on your browser to view
+
+HAppy CoDing </>
